@@ -8,7 +8,7 @@ This project focuses on **customer segmentation using shopping behavior data**. 
 
 ## 🚀 Streamlit App
 https://customersegmentationshoppingbehavior-jbxpkequvka6h9kmxrj9gt.streamlit.app/
-An interactive **Streamlit web application** is provided, allowing users to:
+### An interactive **Streamlit web application** is provided, allowing users to:
 - Upload their own shopping datasets (or use the provided example)
 - Explore the raw data
 - Apply clustering algorithms (K-medoids/PAM with weighted Hamming distance)
